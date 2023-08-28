@@ -1,0 +1,55 @@
+body{background: grey;margin: 0;}
+
+div{box-sizing: border-box;}
+
+header{background: white;padding: 10px;}
+
+header h1{margin: 0;}
+
+.post{background: white;margin-top: 50px;}
+
+.post img{width: 100%;}
+
+.post .post-header div:first-child{display: inline-block; width: 80%;
+    padding-top: 10px;padding-bottom: 10px;padding-left: 10px;}
+
+.post .post-header div:last-child{display: inline-block; width: 20%;text-align:right;
+    padding-top: 10px; padding-bottom: 10px;padding-right: 10px; color: grey;}
+
+.post h2, .post p, .post h3{margin:0;vertical-align: middle;}
+
+.container{width: 550px; margin: auto;}
+
+.post-header{display: flex;height: 50px;}
+
+.post-bottom{height: 60px;}
+
+p{padding: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
